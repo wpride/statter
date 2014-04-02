@@ -1,4 +1,4 @@
-baseball-statter
+statter
 ================
 Originally this was intended to be a suite of tools for the sorting of baseball players based on any linear function over player peripherals and stats, both for pitchers and hitters.
 
